@@ -1,0 +1,16 @@
+{
+  "name": "js-task-1",
+  "version": "1.0.0",
+  "description": "Week 1 Eth Fellowship",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "merkletreejs": "^0.2.13",
+    "web3": "^1.3.4"
+  }
+}
